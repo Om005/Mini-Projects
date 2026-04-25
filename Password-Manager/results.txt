@@ -1,0 +1,34 @@
+// {
+        //     "tag": "",
+        //     "free": false,
+        //     "role": false,
+        //     "user": "202301177",
+        //     "email": "202301177@daiict.ac.in",
+        //     "score": 0.8,
+        //     "state": "deliverable",
+        //     "domain": "daiict.ac.in",
+        //     "reason": "valid_mailbox",
+        //     "mx_found": true,
+        //     "catch_all": null,
+        //     "disposable": false,
+        //     "smtp_check": true,
+        //     "did_you_mean": "",
+        //     "format_valid": true
+        //   }
+        // {
+        //     "tag": "",
+        //     "free": true,
+        //     "role": false,
+        //     "user": "temp_email423312435",
+        //     "email": "temp_email423312435@gmail.com",
+        //     "score": 0.48,
+        //     "state": "undeliverable",
+        //     "domain": "gmail.com",
+        //     "reason": "invalid_mailbox",
+        //     "mx_found": true,
+        //     "catch_all": null,
+        //     "disposable": false,
+        //     "smtp_check": false,
+        //     "did_you_mean": "",
+        //     "format_valid": true
+        //   }

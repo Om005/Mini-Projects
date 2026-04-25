@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: rgb(0, 211, 0);
+    font-family: 'Inconsolata', monospace;
+}

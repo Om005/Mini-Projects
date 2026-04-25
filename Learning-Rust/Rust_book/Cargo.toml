@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "app",        # our main binary crate
+    "hello_macro" # procedural macro crate
+]
+
+
+[package]
+name = "Rust_book"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
