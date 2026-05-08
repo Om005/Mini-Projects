@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'gilroy';
+    src: url('../fonts/Gilroy-Medium.ttf') format('truetype'); /* Use a relative path */
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 40px;
+}
+ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+
+h1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+}
